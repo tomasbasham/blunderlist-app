@@ -1,4 +1,4 @@
-# blunderlist [![Build Status](https://app.bitrise.io/app/99bf31e00e4fecf1/status.svg?token=r4FHG9khKv2F00d4Qij8Dg&branch=master)](https://app.bitrise.io/app/99bf31e00e4fecf1)
+# blunderlist [![Build Status](https://app.bitrise.io/app/99bf31e00e4fecf1/status.svg?token=r4FHG9khKv2F00d4Qij8Dg&branch=master)](https://app.bitrise.io/app/99bf31e00e4fecf1) [![Maintainability](https://api.codeclimate.com/v1/badges/59f6db58c48eb4957ed7/maintainability)](https://codeclimate.com/github/tomasbasham/blunderlist-app/maintainability)
 
 This README outlines the details of collaborating on this iOS application.
 A short introduction of this app could easily go here.
