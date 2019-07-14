@@ -1,4 +1,4 @@
-# blunderlist
+# blunderlist [![Build Status](https://app.bitrise.io/app/99bf31e00e4fecf1/status.svg?token=r4FHG9khKv2F00d4Qij8Dg&branch=master)](https://app.bitrise.io/app/99bf31e00e4fecf1)
 
 This README outlines the details of collaborating on this iOS application.
 A short introduction of this app could easily go here.
